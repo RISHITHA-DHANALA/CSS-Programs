@@ -9,6 +9,7 @@ The goal is to transform basic HTML pages into visually structured and responsiv
 
 **Topics Covered**
 **Basic Styling**
+
 Colors and background properties
 
 Fonts and text styling
@@ -25,6 +26,7 @@ Flexbox
 Grid layout
 
 **Advanced Styling**
+
 Transitions
 
 Transformations
@@ -32,11 +34,13 @@ Transformations
 Animations
 
 **Responsive Design**
+
 Media queries
 
 Mobile-friendly layouts
 
 **Tools Used**
+
 CSS3
 
 Browser Developer Tools
@@ -44,6 +48,7 @@ Browser Developer Tools
 VS Code
 
 **Purpose**
+
 Improve UI design skills
 
 Learn layout structuring
